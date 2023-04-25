@@ -1,0 +1,42 @@
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.AssemblyReference.cache
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.AssemblyInfoInputs.cache
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.AssemblyInfo.cs
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.CoreCompileInputs.cache
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\nunit.engine.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\nunit.engine.api.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\nunit.engine.core.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Competition Task.exe
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Competition Task.deps.json
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Competition Task.runtimeconfig.json
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Competition Task.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Competition Task.pdb
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\nunit.framework.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\WebDriver.Support.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\WebDriver.dll
+E:\Mars\Competition Task\Competition Task\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.CopyComplete
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.dll
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\refint\Competition Task.dll
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.pdb
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.genruntimeconfig.cache
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\ref\Competition Task.dll
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Interop.AutoItX3Lib.dll
+E:\Mars\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.ResolveComReference.cache
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.AssemblyReference.cache
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Interop.AutoItX3Lib.dll
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.ResolveComReference.cache
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.AssemblyInfoInputs.cache
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.AssemblyInfo.cs
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.csproj.CoreCompileInputs.cache
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.dll
+E:\Competition Task\Competition Task\obj\Debug\net6.0\refint\Competition Task.dll
+E:\Competition Task\Competition Task\obj\Debug\net6.0\Competition Task.pdb
